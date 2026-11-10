@@ -6,7 +6,8 @@
   "eventspastleague",
   "lookupleague",
   "eventsnext",
-  "eventslast"
+  "eventslast",
+  "season"
  ],
  "leagues": [
   "4429",
@@ -169,5 +170,10 @@
   "150662",
   "150722",
   "152717"
- ]
+ ],
+ "seasons": [
+  "4405",
+  "5266"
+ ],
+ "generated_seasons": "2026-11-10T05:30:35+00:00"
 }
